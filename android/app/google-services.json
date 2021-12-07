@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255430968294",
+    "project_id": "retociclo4",
+    "storage_bucket": "retociclo4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255430968294:android:4ee3064d7b21a167a28c27",
+        "android_client_info": {
+          "package_name": "com.example.retociclo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255430968294-797i0e8kkjv0rq1e4d0davfihao5jb5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retociclo4",
+            "certificate_hash": "bf5ee03d4c0a0064eb7d0c1bd7b53093b68f4b7a"
+          }
+        },
+        {
+          "client_id": "255430968294-30dgiret22vb6g8t1jhe2s6r9l7rfacu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpNkgAy-Fs8G_AsOWHnBl1-dBiI0htG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255430968294-30dgiret22vb6g8t1jhe2s6r9l7rfacu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
